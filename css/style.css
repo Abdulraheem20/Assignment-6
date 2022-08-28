@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+}
+section{
+    display: flex;
+    margin: 100px;
+    margin-left: 200px;
+    background-color: white;
+}
+.box1{
+    background-color: white;
+    border: 0.1px solid;
+    margin: 20px;
+    line-height: 1.5;
+    padding: 20px;
+    border-radius: 10px;
+    
+}
+.star5{
+    width: 100px;
+    color: gold;
+}
+.dp{
+    width: 40px;
+    background: fixed;
+    border-radius: 15px;
+}
+.Arigbabuwo{
+    padding-bottom: 10px;
+}
+span{
+    display: block;
+}
+.Arigbabuwo{
+    display: inline;
+    position: fixed;
+    margin-left: 10px;
+}
